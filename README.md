@@ -8,5 +8,5 @@
 
 ### ScreenShots
 
-[](images/p1.png)
-[](images/p2.png)
+[enter something](images/p1.png)
+[enter something](images/p2.png)
